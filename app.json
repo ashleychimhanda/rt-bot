@@ -6,27 +6,29 @@
   "env": {
     "TW_OWNER_USERNAME": {
         "description": "Twitter account to tell about new followers",
-        "value": ""
+        "value": "le_big_ash"
     },
     "TW_USERNAME": {
         "description": "The twitter username this bot runs as",
-        "value": ""
+        "value": "@bryan_takaz"
     },
     "TW_CONSUMER_KEY": {
         "description": "oauth consumer key - create new app at https://apps.twitter.com/",
-        "value": ""
+        "value": "	KCcqXd7dg53uTLhBQKLS78cR0"
     },
     "TW_CONSUMER_SECRET": {
         "description": "oauth consumer secret - create new app at https://apps.twitter.com/",
-        "value": ""
+        "value": "	zRTtJQwA2yzEXKSRQWuzjTk19PbOyGcGI4a26BEHUa0r5Y6V4N
+"
     },
     "TW_ACCESS_TOKEN": {
         "description": "oauth access token - create new app at https://apps.twitter.com/",
-        "value": ""
+        "value": "	961554421904826368-Pq0oBzdYZm7wtkz1fJ3fgBnjy2JJbnq"
     },
     "TW_CONSUMER_TOKEN_SECRET": {
         "description": "oauth access token secret - create new app at https://apps.twitter.com/",
-        "value": ""
+        "value": "	UY2XLKbpB1BqLbOzIEG01ZhVSWUKKCqghvZ6I1Cs3SFJ4
+"
     },
     "DEBUG": {
         "description": "Use debug logging?",
