@@ -6,11 +6,11 @@
   "env": {
     "TW_OWNER_USERNAME": {
         "description": "Twitter account to tell about new followers",
-        "value": "chimzcrypto"
+        "value": "le_big_ash"
     },
     "TW_USERNAME": {
         "description": "The twitter username this bot runs as",
-        "value": "@bryan_takaz"
+        "value": "chimzcrypto"
     },
     "TW_CONSUMER_KEY": {
         "description": "oauth consumer key - create new app at https://apps.twitter.com/",
